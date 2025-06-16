@@ -9,6 +9,12 @@ I will upload any relevant notes and code that I produce as an outcome of comple
 ## Current Stage
 I am currently on chapter 1 of this textbook
 
+## Additional Reading 
+This textbook encourages the reader to read the following:
+
+- Intel® 64 and IA-32 Architectures Software Developer’s Manuals
+- 
+
 ## Textbook
 The textbook can be found here: [Textbook Page](https://github.com/tuhdo/os01/blob/master/Operating_Systems_From_0_to_1.pdf)
 
