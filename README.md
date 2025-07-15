@@ -7,7 +7,7 @@ I will upload any relevant notes and code that I produce as an outcome of comple
 
 
 ## Current Stage
-I am currently on chapter 1 of this textbook
+I am currently on chapter 4 of this textbook
 
 ## Additional Reading 
 This textbook encourages the reader to read the following:
